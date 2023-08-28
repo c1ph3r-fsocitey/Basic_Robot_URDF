@@ -1,5 +1,5 @@
 # Basic_Robot_URDF
-This is a basic robot URDF file with interactive joint state publisher
+This is a basic robot URDF file which can be interacted using the joint state publisher
 
 [first_urdf_robot.webm](https://github.com/c1ph3r-fsocitey/Basic_Robot_URDF/assets/109020327/edd76e98-6829-4a08-8447-428a7e32383a)
 
